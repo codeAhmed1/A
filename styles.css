@@ -1,0 +1,68 @@
+body {
+  background-color: rgb(163, 217, 240);
+  margin: 0px;
+  padding: 0px;
+  background-image: url(img/05c42074-d63f-4518-9a5b-562bc2d3a9f2.webp);
+  
+}
+div {
+  color: rgb(255, 255, 255);
+  background-color: aquamarine;
+  height: 28%;
+  width: 500px;
+  text-align: center;
+  padding: 4px;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  /*التدوير في css */
+  border-radius: 8px;
+  
+  box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.325);
+  font-size: 20px;
+  /*
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  */
+  /*
+  position: absolute;
+  left: 50%;
+
+
+ width
+
+  margin-left: -250px;
+  top: 50%;
+
+
+ heigh
+
+  margin-top: -12%;
+  */
+
+  background-color: transparent;
+   backdrop-filter: blur(60px);
+
+   
+
+/*background-color: rgba(127, 255, 212, 0.2);
+backdrop-filter: blur(20px);
+*/
+}
+a {
+  color: rgba(36, 36, 36, 0.753);
+ text-decoration: none;
+ font-size: 23px;
+ font-weight:bold
+ 
+
+}
+
+h1 {
+  color: rgba(144, 147, 148, 0.63);
+}
